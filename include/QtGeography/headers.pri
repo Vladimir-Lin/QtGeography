@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtGeography/qtgeography.h
+SYNCQT.HEADER_CLASSES = ../../include/QtGeography/QtGeography
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
